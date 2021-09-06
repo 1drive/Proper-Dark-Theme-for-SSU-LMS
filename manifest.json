@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+
+  "name": "Proper Dark Theme for SSU LMS",
+  "version": "20210828",
+  "description": "Proper Dark Theme for SSU LMS. 또는 숭실대학교 LMS를 위한 적절한 다크 테마. または崇実学校LMSのための適切なダークテーマ。",
+
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/pdt16.png",
+      "32": "/images/pdt32.png",
+      "48": "/images/pdt48.png",
+      "128": "/images/pdt128.png"
+    }
+  },
+  
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://canvas.ssu.ac.kr/*"],
+    "all_frames": true
+  }]
+
+}

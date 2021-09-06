@@ -1,0 +1,669 @@
+
+    body,
+    html {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        font-family: Noto Sans, Noto Sans KR, LatoWeb, Lato, Helvetica Neue, Helvetica, Arial, sans-serif;
+        background-color: black !important;
+        color: white !important;
+    }
+    body.ic-framed-lti-tool .ic-Layout-contentMain {
+        background-color: black !important;
+    }
+    .xncb-section-content-wrapper {
+        padding-left: 85px;
+        background: black !important;
+    }
+    .xncb-root.learner .xncb-subsection-header-title {
+        color: white !important;
+    }
+    .xncb-section-header-unlock_at {
+        color: white !important;
+    }
+    .xncb-root .xncb-component-title {
+        color: white !important;
+    }
+    .xncb-root.learner .xncb-section-header-title {
+        color: white !important;
+    }
+    .xncb-section-content-wrapper {
+        background-color: black !important;
+    }
+    .xncb-content-wrapper {
+        background-color: black !important;
+    }
+    .xncb-content-wrapper {
+        background-color: black !important;
+    }
+    .xncb-root {
+        background-color: black !important;
+    }
+    .xncb-header-fix {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: white !important;
+        background-color: black !important;
+    }
+    body.course-menu-expanded:not(.ic-no-flex-layout):not(.embedded):not(.is-inside-submission-frame) .ic-Layout-columns .ic-Layout-watermark {
+        background-color: black !important;
+    }
+    .list-view #section-tabs-header-subtitle {
+        color: white !important;
+    }
+    .list-view a.active {
+        border-left: 2px solid #eee !important;
+        color: #eee !important;
+    }
+    .list-view > ul > li > a,
+    .list-view > nav > ul > li > a {
+        color: deepskyblue !important;
+        text-decoration: underline !important;
+    }
+    #breadcrumbs > ul > li + li:last-of-type a {
+        color: white !important;
+    }
+    .xncb-section-status .xncb-section-status-block .xncb-section-status-component.section-ready {
+        background-color: #708090 !important;
+        color: #fefed5 !important; /* original was #fff0f5 */
+        border: 1px solid dimgrey !important;
+    }
+    .ic-app-nav-toggle-and-crumbs {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: black !important;
+    }
+    #breadcrumbs > ul > li {
+        background-color: black !important;
+    }
+    #breadcrumbs > ul > li > a .ellipsis {
+        color: white !important;
+    }
+    #breadcrumbs > ul > li {
+        background-color: black !important;
+    }
+    body:not(.full-width):not(.outcomes):not(.body--login-confirmation) .ic-Layout-wrapper {
+        background-color: black !important;
+    }
+    .ic-app-nav-toggle-and-crumbs {
+        border-bottom: 1px solid darkslategrey !important;
+        background-color: #000 !important;
+    }
+    .ic-app-course-nav-toggle i[class*=icon-],
+    .ic-app-course-nav-toggle i[class^=icon-] {
+        color: white !important;
+    }
+    .list-view > nav > ul > li > a,
+    .list-view > ul > li > a {
+        color: powderblue !important;
+        text-decoration: underline;
+    }
+    .xncb-header-fix {
+        border-bottom: 1px solid darkslategrey !important;
+        background-color: #000 !important;
+    }
+    .xncb-subsection-header {
+        border-bottom: 1px solid darkslategrey !important;
+    }
+    .xncb-component-wrapper {
+        border-bottom: 1px solid darkslategrey !important;
+    }
+    .xncb-section-header-wrapper.subsection-folded .xncb-section-header-info-wrapper {
+        border-bottom: 1px solid darkslategrey !important;
+    }
+    .xncb-all-sections-header-learn_status-link {
+        background-color: royalblue !important;
+        color: white !important;
+    }
+    .xncb-section-status .xncb-section-status-block .xncb-section-status-component.complete-all {
+        color: white !important;
+        background-color: royalblue !important;
+        border: 2px solid royalblue !important;
+    }
+    .xncb-section-header-info-wrapper {
+        border-bottom: 1px solid darkslategrey !important;
+    }
+    .xncb-component-attendance-state.attendance {
+        background-color: royalblue !important;
+        color: #fff;
+    }
+    .xncb-component-sub-d_day {
+        color: dimgrey !important;
+    }
+    .xncb-component-attendance-state.none {
+        border: 1px solid dimgrey !important;
+        color: dimgrey !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .xnlsmpb-head-element {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: dimgrey !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .subsection-title-wrap {
+        color: white !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .section-title,
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .subsection-title {
+        color: white !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .component-learnstatus.complete {
+        background-color: black !important;
+        color: #00ac18 !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table td {
+        border: 1px solid dimgrey !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .xnlsmpb-table-header {
+        border-top: 2px solid dimgrey !important;
+        border-right: 1px solid dimgrey !important;
+        border-left: 1px solid dimgrey !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .component-progress.attend {
+        background-color: black !important;
+        color: #1659ea !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table .component-progress.not-graded {
+        background-color: black !important;
+        color: crimson !important;
+    }
+    #xn-learn-status .xnls-body-container .xnlsmpb-table-container .xnlsmpb-table td.component-progress-details .xn-common-white {
+        background-color: floralwhite !important;
+        border: 1px solid floralwhite !important;
+    }
+    #xnpdm-modal-contents .xnpdm-modal-body {
+        background-color: black !important;
+    }
+    #xnpdm-modal-progress-overview-container .xnpdm-modal-progress-table .xnpdm-header {
+        background: darkslategrey !important;
+        border: 1px solid dimgrey !important;
+    }
+    #xnpdm-modal-progress-overview-container .xnpdm-modal-progress-table .xnpdm-modal-progress-overview-row {
+        border: 1px solid dimgrey !important;
+    }
+    .xnpdm-modal-progress-overview-row.learning-status-complete {
+        background-color: black !important;
+        color: #00ac18 !important;
+    }
+    .xnpdm-modal-progress-overview-row.attendance-status-attendance {
+        background-color: black !important;
+        color: royalblue !important;
+    }
+    .modal-header {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: black !important;
+    }
+    .modal-backdrop.fade.in,
+    .modal.fade.in,
+    .tooltip {
+        z-index: 1000 !important;
+        background-color: rgba(0, 0, 0, 0.7) !important;
+    }
+    #xnpdm-modal-contents {
+        background-color: black !important;
+    }
+    #xnpdm-modal-progress-detail-container .xnpdm-header {
+        background: darkslategrey !important;
+        border: 1px solid dimgrey !important;
+    }
+    #xnpdm-modal-progress-detail-container .xnpdm-modal-progress-detail-row {
+        color: white !important;
+        border: 1px solid dimgrey !important;
+    }
+    #assignments {
+        background-color: black !important;
+        color: white !important;
+    }
+    #grades_summary th.title .context {
+        color: lavender;
+    }
+    [dir="ltr"] .dLdjY_ycrn .dLdjY_bDLZ {
+        background-color: black !important;
+        color: white !important;
+        border-color: dimgrey !important;
+    }
+    .ui-tabs .ui-tabs-nav li.ui-tabs-active a {
+        color: white !important;
+        background-color: black !important;
+    }
+    .ui-tabs .ui-tabs-nav li a {
+        color: white !important;
+    }
+    .ui-tabs .ui-tabs-nav li.ui-state-hover a,
+    .ui-tabs .ui-tabs-nav li:hover a {
+        color: blueviolet !important;
+        text-decoration: underline;
+    }
+    .ui-tabs .ui-tabs-nav li.ui-state-hover,
+    .ui-tabs .ui-tabs-nav li:hover {
+        background: black !important;
+        border: none !important;
+    }
+    .ui-tabs .ui-tabs-nav li.ui-tabs-active,
+    .ui-tabs .ui-tabs-nav li.ui-tabs-active.ui-state-hover,
+    .ui-tabs .ui-tabs-nav li.ui-tabs-active:hover {
+        border: none !important;
+        background: white !important;
+    }
+    .ic-Action-header__Heading {
+        color: white !important;
+    }
+    [dir="ltr"] .fCrpb_egrg,
+    [dir="ltr"] .fCrpb_egrg.fCrpb_fVUh,
+    [dir="ltr"] label.fCrpb_egrg,
+    [dir="rtl"] .fCrpb_egrg,
+    [dir="rtl"] .fCrpb_egrg.fCrpb_fVUh,
+    [dir="rtl"] label.fCrpb_egrg {
+        color: white !important;
+    }
+    .ic-Action-header .ic-Action-header__Secondary > .Button,
+    .ic-Action-header .ic-Action-header__Secondary > .ui-button,
+    .ic-Action-header .ic-Action-header__Secondary > .btn,
+    .ic-Action-header .ic-Action-header__Secondary > .ui-button {
+        background-color: black !important;
+        color: white !important;
+        border-color: dimgrey !important;
+    }
+    table.summary td,
+    table.summary tbody th {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: black !important;
+    }
+    #right-side h2,
+    #right-side .h2 {
+        border-bottom: 1px solid dimgrey !important;
+    }
+    table.summary thead th,
+    table.summary caption {
+        border-bottom: 1px solid dimgrey !important;
+    }
+    .btn,
+    .Button,
+    .ui-button {
+        background: black !important;
+        color: white !important;
+    }
+    small {
+        font-size: 85% !important;
+        color: white !important;
+    }
+    .fOyUs_desw {
+        background-color: black !important;
+        color: white !important;
+    }
+    .td__title {
+        background-color: darkslategrey !important;
+    }
+    #syllabus tr.date.related td,
+    #syllabus tr.date.related th,
+    #syllabus tr.date.selected td,
+    #syllabus tr.date.selected th {
+        background-color: indigo;
+    }
+    .mini_calendar .day {
+        color: white !important;
+    }
+    th,
+    td {
+        border: 1px solid dimgrey !important;
+    }
+    .mini_calendar .day.has_event {
+        background-color: indigo;
+    }
+    .mini_calendar .day.today {
+        background-color: hotpink;
+    }
+    .ToDoSidebarItem {
+        color: white !important;
+    }
+    i[class*=icon-],
+    i[class^=icon-] {
+        color: white !important;
+    }
+    #right-side .button-sidebar-wide {
+        border-color: dimgrey !important;
+    }
+    #xn-board-posts .xnbp-tool-container .xnbp-search-container .xnbp-search-input {
+        border: 1px solid dimgrey !important;
+        background-color: darkslategrey !important;
+    }
+    #xn-board-posts .xnbp-tool-container .xnbp-search-container .xnbp-search-btn {
+        background-color: darkslategrey !important;
+        border-color: dimgrey !important;
+    }
+    #xn-board-posts .xnbp-tool-container .xnbp-btn-post-new {
+        background-color: darkslategrey !important;
+        border-color: #696969;
+    }
+    #xn-board-posts .xnbp-container .xnbp-no-posts-text {
+        border-bottom: 1px solid dimgrey !important;
+    }
+    #xn-board-posts .xnbp-container table {
+        border-top: 1px solid dimgrey !important;
+    }
+    #group_categories_tabs > .roster-tab {
+        background-color: black !important;
+        color: white !important;
+    }
+    .ic-Table.ic-Table--striped tbody tr:nth-child(odd) {
+        background-color: #222 !important;
+    }
+    textarea,
+    input[type="text"],
+    input[type="password"],
+    input[type="datetime"],
+    input[type="datetime-local"],
+    input[type="date"],
+    input[type="month"],
+    input[type="time"],
+    input[type="week"],
+    input[type="number"],
+    input[type="email"],
+    input[type="url"],
+    input[type="search"],
+    input[type="tel"],
+    input[type="color"],
+    .uneditable-input {
+        background-color: darkslategrey !important;
+        border: 1px solid dimgrey !important;
+        color: white !important;
+        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075) !important;
+    }
+    select {
+        border: 1px solid dimgrey !important;
+        background-color: darkslategrey !important;
+        color: white !important;
+    }
+    .header-bar {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: black !important;
+    }
+    .calendar .fc-row .fc-content-skeleton td,
+    .calendar .fc-row .fc-helper-skeleton td,
+    #calendar-drag-and-drop-container .fc-row .fc-content-skeleton td,
+    #calendar-drag-and-drop-container .fc-row .fc-helper-skeleton td {
+        border-color: dimgrey !important;
+        background-color: black !important;
+    }
+    #calendar-app .fc-other-month,
+    #calendar-drag-and-drop-container .fc-other-month {
+        color: grey;
+        opacity: 1 !important;
+        background-color: black !important;
+    }
+    .fc-unthemed th,
+    .fc-unthemed td,
+    .fc-unthemed thead,
+    .fc-unthemed tbody,
+    .fc-unthemed .fc-divider,
+    .fc-unthemed .fc-row,
+    .fc-unthemed .fc-popover {
+        background-color: black !important;
+        border-color: dimgrey !important;
+    }
+    #calendar-app .fc-month-view .fc-today,
+    #calendar-drag-and-drop-container .fc-month-view .fc-today {
+        background: darkcyan !important;
+    }
+    #calendar-app .fc-event,
+    #calendar-drag-and-drop-container .fc-event {
+        background-color: honeydew !important;
+    }
+    i[class*=icon-],
+    i[class^=icon-] {
+        font-style: normal !important;
+        color: rgb(172, 162, 138) !important;
+    }
+    #context-list-holder,
+    #undated-events {
+        background-color: black !important;
+    }
+    #minical .fc-toolbar {
+        background-color: black !important;
+        border-top: none !important;
+        color: white !important;
+        border-bottom: 1px solid dimgrey !important;
+    }
+    #minical .fc-toolbar h2,
+    #minical .fc-toolbar .h2 {
+        color: white !important;
+        border-bottom: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .fc button .fc-icon {
+        color: white !important;
+    }
+    #minical .fc-other-month {
+        color: #556572 !important;
+        opacity: 1 !important;
+    }
+    #minical {
+        background-color: black !important;
+        border: 1px solid dimgrey !important;
+    }
+    #minical .fc-widget-content {
+        color: white !important;
+    }
+    #minical .fc-widget-content {
+        background: none;
+        border: 1px solid dimgrey !important;
+    }
+    .Button,
+    .btn,
+    .ui-button {
+        background: black !important;
+        color: #fff;
+        border-color: dimgrey !important;
+    }
+    .ic-app-course-nav-toggle {
+        border: none !important;
+    }
+    .toolbarView .headerBar {
+        background: black !important;
+        border: 1px solid dimgrey !important;
+    }
+    .topic .entry-content {
+        border-left: 1px solid dimgrey !important;
+        border-right: 1px solid dimgrey !important;
+    }
+    .avatar {
+        border: 2px solid dimgrey !important;
+        background-color: white !important;
+    }
+    .ui-menu .ui-menu-item a.ui-state-hover,
+    .ui-menu .ui-menu-item a.ui-state-active,
+    .ui-menu .ui-menu-item .ui-progressbar a.ui-widget-header,
+    .ui-progressbar .ui-menu .ui-menu-item a.ui-widget-header,
+    .ui-menu .ui-menu-item a.ui-state-focus {
+        background-color: black !important;
+        color: white !important;
+    }
+    .al-options {
+        background-color: black !important;
+        box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.1) !important;
+        border-color: dimgrey !important;
+    }
+    .message-list .messages > li {
+        background: black !important;
+        border-bottom: 1px solid dimgrey !important;
+    }
+    .message-list .author {
+        color: white !important;
+    }
+    .message-list .subject {
+        color: white !important;
+    }
+    .message-list .summary {
+        color: cornsilk;
+    }
+    .conversations .panel {
+        background: black !important;
+        border-bottom: 1px solid dimgrey !important;
+    }
+    .ac-input-box {
+        background: darkslategrey !important;
+        border: 1px solid dimgrey !important;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset !important;
+    }
+    .ac-result-container {
+        background: black !important;
+        border: 1px solid dimgrey !important;
+    }
+    .ic-Dashboard-header__layout {
+        border-bottom: 1px solid dimgrey !important;
+        background-color: black !important;
+    }
+    .cAqHo_eAjd {
+        background-color: #222 !important;
+    }
+    .eoNrR_blJt {
+        background: #222 !important;
+        color: white !important;
+    }
+    .sJGfW_bGBk {
+        background: #222 !important;
+    }
+    .sJGfW_dnnz {
+        color: white !important;
+    }
+    .sJGfW_blJt {
+        color: white !important;
+    }
+    .dxCCp_eXrk {
+        color: antiquewhite !important;
+    }
+    .cjUyb_bGBk.cjUyb_bLsb,
+    input.cjUyb_bGBk[type].cjUyb_bLsb {
+        color: white !important;
+    }
+    .eHiXd_dnnz,
+    a.eHiXd_dnnz,
+    button.eHiXd_dnnz,
+    button.eHiXd_dnnz[type="button"],
+    button.eHiXd_dnnz[type="reset"],
+    button.eHiXd_dnnz[type="submit"] {
+        color: white !important;
+    }
+    .Button--icon-action-rev {
+        color: white !important;
+        background-color: white !important;
+    }
+    .dpCPB_caGd {
+        background: black !important;
+        border-color: dimgrey !important;
+    }
+    .ColorPicker__Container {
+        background: black !important;
+    }
+    .fOyUs_fZwI,
+    .fOyUs_kXoP {
+        background: black !important;
+        color: white !important;
+    }
+    .bdYPe_eLeB:hover,
+    .bdYPe_eLeB[aria-disabled],
+    .bdYPe_eLeB[aria-selected] {
+        color: white !important;
+        background: black !important;
+    }
+    .bdYPe_eLeB[aria-selected] {
+        border-bottom-color: dimgrey !important;
+    }
+    .bdYPe_eLeB:not([aria-selected]):not([aria-disabled]):hover,
+    .bdYPe_eLeB[aria-selected] {
+        background: black !important;
+        border-color: dimgrey !important;
+    }
+    .bdYPe_eLeB {
+        color: white !important;
+    }
+    .sJGfW_bGBk {
+        background: black !important;
+    }
+    .sJGfW_bGBk.sJGfW_cSen,
+    .sJGfW_bGBk:active,
+    .sJGfW_bGBk:focus,
+    .sJGfW_bGBk:hover,
+    .sJGfW_bGBk[aria-expanded="true"] {
+        background: #222 !important;
+    }
+    .ic-app-header {
+        background-color: slategrey !important;
+    }
+    .navigation-tray-container {
+        background: #222 !important;
+        color: white !important;
+    }
+    .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+        background: #222 !important;
+        border: none !important;
+    }
+    a.fbyHH_bGBk,
+    button.fbyHH_bGBk {
+        color: floralwhite !important;
+    }
+    .fhWLw_blJt {
+        color: floralwhite !important;
+    }
+    .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+        background: #222 !important;
+        border: none !important;
+        text-decoration: none !important;
+    }
+    [dir="ltr"] .bwOAM_cwos.bwOAM_EMjX,
+    [dir="ltr"] input[type].bwOAM_cwos.bwOAM_EMjX {
+        background: darkslategrey !important;
+        border: dimgrey !important;
+    }
+    .ic-item-row {
+        box-shadow: 0 -1px dimgrey, inset 0 -1px dimgrey !important;
+    }
+    #context-list .context_list_context:hover {
+        background: #222 !important;
+    }
+    #right-side .events_list .todo-details__context, #right-side .events_list .event-details__context, #right-side .to-do-list .todo-details__context, #right-side .to-do-list .event-details__context {
+        color: white !important;
+    }
+    #right-side .right-side-list li em, #right-side .right-side-list li p {
+        color: lightcoral !important;
+    }
+    #right-side .events_list .event-details:after, #right-side .events_list .todo-details:after, #right-side .to-do-list .event-details:after, #right-side .to-do-list .todo-details:after {
+        background: linear-gradient(to right, rgba(0,0,0,0) 0%, #000 80%) !important;
+    }
+    a {
+        color: var(--ic-link-color);
+        text-decoration: none !important;
+    }
+    .eHiXd_brAJ, a.eHiXd_brAJ, button.eHiXd_brAJ, button.eHiXd_brAJ[type="button"], button.eHiXd_brAJ[type="reset"], button.eHiXd_brAJ[type="submit"] {
+        color: aqua !important;
+        text-decoration: none !important;
+    }
+    b.event-details__title.recent_feedback_title {
+        color: aqua !important;
+    }
+    .message-list .messages>li {
+        background: black !important;
+        border-bottom: 1px solid dimgrey !important;
+    }
+    .message-detail.span8 .message-content>li, .message-detail.conversations__message-detail .message-content>li {
+        border-bottom: 1px solid dimgrey !important;
+    }
+    .message-detail.span8 .message-header, .message-detail.conversations__message-detail .message-header {
+        border-bottom: 1px solid dimgrey !important;
+    }
+    body.responsive_awareness .message-list-scroller {
+        border-right: 1px solid dimgrey !important;
+    }
+    .ic-DashboardCard__header_content {
+        background: #222 !important;
+    }
+    .ic-DashboardCard {
+        background: #222 !important;
+    }
+    .ic-DashboardCard__header-subtitle.ellipsis {
+        color: white !important;
+    }
+    .esvoZ_drOs {
+        color: white !important;
+    }
+    .ic-app-footer {
+        border-top: 1px solid dimgrey !important;
+    }
