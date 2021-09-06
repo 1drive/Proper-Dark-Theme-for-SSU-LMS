@@ -290,7 +290,7 @@
     #syllabus tr.date.related th,
     #syllabus tr.date.selected td,
     #syllabus tr.date.selected th {
-        background-color: indigo;
+        background-color: indigo !important;
     }
     .mini_calendar .day {
         color: white !important;
@@ -661,4 +661,19 @@
     }
     .ic-app-footer {
         border-top: 1px solid dimgrey !important;
+    }
+    .recent_activity>li {
+        border-bottom: 1px solid dimgray !important;
+    }
+    .recent-activity-header {
+        border-bottom: 1px solid dimgrey !important;
+    }
+    .list-view>ul>li>a, .list-view>nav>ul>li>a {
+        text-decoration: none !important;
+    }
+    #right-side .shared-space h2 {
+        border: none !important;
+    }
+    .mini_calendar .day.has_event {
+        background-color: indigo !important;
     }
