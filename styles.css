@@ -677,3 +677,13 @@
     .mini_calendar .day.has_event {
         background-color: indigo !important;
     }
+    .xncb-section-status .xncb-section-status-block .xncb-section-status-component.section-start {
+        background-color: crimson !important;
+        border: 1px solid dimgrey !important;
+    }
+    .dxCCp_bGBk {
+        color: aquamarine !important;
+    }
+    .fc-unthemed .fc-today {
+        background: purple !important;
+    }
