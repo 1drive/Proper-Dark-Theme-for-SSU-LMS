@@ -711,7 +711,7 @@
         color: aquamarine !important;
     }
     .xn-content-nav-top-container .nav-top-left button {
-        border-right: 1px solid dimgrey !important;
+        border-right: 1px solid white !important;
         background-color: black !important;
         color: grey !important;
     }
@@ -820,6 +820,12 @@
     }
     p {
         color: white !important;
+    }
+    .xn-assignment-body .xnab-info.top-value {
+        color: white !important;
+    }
+    .xn-assignment-body .xnab-info.top-key {
+        color: aquamarine;
     }
 
 
