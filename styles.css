@@ -903,7 +903,6 @@
         background-color: black !important;
     }
     .item-group-condensed .ig-list li:first-child .ig-row, .item-group-condensed .ig-list li:first-of-type .ig-row, .item-group-condensed .first_visible .ig-row {
-        border-top: 0;
         background-color: black !important;
         color: white !important;
     }
@@ -930,6 +929,244 @@
         border-left: 1px solid dimgrey !important;
         border-right: 1px solid dimgrey !important;
     }
+    #flash_message_holder li.ic-flash-info:first-child, #flash_message_holder li.ic-flash-success:first-child, #flash_message_holder li.ic-flash-warning:first-child, #flash_message_holder li.ic-flash-error:first-child, #flash_message_buffer li.ic-flash-info:first-child, #flash_message_buffer li.ic-flash-success:first-child, #flash_message_buffer li.ic-flash-warning:first-child, #flash_message_buffer li.ic-flash-error:first-child {
+        color: white !important;
+        background-color: black !important;
+    }
+
+    .ui-dialog .ui-dialog-content {
+        background-color: black !important;
+        color: white !important;
+    }
+    #flash_message_holder li.ic-flash-info:first-child, #flash_message_holder li.ic-flash-success:first-child, #flash_message_holder li.ic-flash-warning:first-child, #flash_message_holder li.ic-flash-error:first-child, #flash_message_buffer li.ic-flash-info:first-child, #flash_message_buffer li.ic-flash-success:first-child, #flash_message_buffer li.ic-flash-warning:first-child, #flash_message_buffer li.ic-flash-error:first-child {
+        background-color: black !important;
+        color: white !important;
+    }
+
+    .quiz-submission, .question_editing {
+        background: black !important;
+        border: 1px solid dimgrey !important;
+        padding: 16px;
+    }
+    .quiz_score .score_value {
+        font-size: 1.2em;
+        font-weight: bold;
+        color: aquamarine !important;
+    }
+    .cvphu_caGd {
+        background-color: black !important;
+        color: white !important;
+    }
+    .ic-notification__icon {
+        background-color: cornsilk !important;
+    }
+    .ic-notification {
+        border: 2px solid cornsilk !important;
+    }
+    .ic-notification__content {
+        background: black !important;
+    }
+    .xn-common-white-gray-btn.disable {
+        background-color: grey !important;
+        color: grey !important;
+    }
+    .discussion-entries .entry {
+        background: black !important;
+        border: 1px solid dimgrey !important;
+    }
+    .discussion-entries .entry {
+        background: black !important;
+        border: 1px solid dimgrey !important;
+    }
+    .discussion_entry {
+        background: black !important;
+    }
+    .entry>.bottom-reply-with-box .discussion-entry-reply-area.reply-box-container .discussion-reply-box {
+        background-color: darkslategrey !important;
+        color: white !important;
+    }
+    .entry>.bottom-reply-with-box .discussion-entry-reply-area {
+        border-top: 1px solid dimgrey !important;
+    }
+    body#tinymce, body#tinyrce {
+        background-color: black;
+        color: white !important;
+    }
+    .canvas-rce__skins--root {
+        background-color: black !important;
+    }
+    .discussion-reply-action, .discussion-rate-action {
+        color: azure !important;
+    }
+    .discussion-pubdate, .discussion-tododate {
+        color: cornsilk !important;
+        background-color: black !important;
+    }
+    .discussion-reply-box {
+        background-color: darkslategrey !important;
+        border: 1px solid dimgrey !important;
+        color: white !important;
+    }
+    .discussion_entry>.discussion-entry-reply-area {
+        border: 1px solid dimgrey !important;
+    }
+    .discussion-fyi {
+        color: aqua !important;
+    }
+    p {
+        background-color: black !important;
+        color: white !important;
+    }
+    #xn-post-view .xnpv-title {
+        width: 100%;
+        padding: 10px;
+        line-height: 22px;
+        color: aquamarine !important;
+        border-right: 0;
+        border-left: 0;
+        font-weight: 700;
+        font-size: 18px;
+    }
+    .comment_list {
+        background-color: black !important;
+        color: white !important;
+    }
+    div#add_comment_form {
+        color: white;
+        background-color: black !important;
+    }
+    div#add_comment_form {
+        color: white;
+        background-color: black !important;
+    }
+    .file-upload-submission {
+        color: aquamarine !important;
+    }
+    .file-upload-submission {
+        background-color: black !important;
+    }
+    div#quiz-instructions {
+        background-color: black !important;
+        color: white !important
+    }
+
+
+    /* Area for class.ssu.ac.kr NOT canvas.ssu.ac.kr  */
+    .xn-dash-board {
+        background-color: black !important;
+    }
+    .xn-course-container {
+        background: rgb(22, 22, 22) !important;
+    }
+    .xn-course-head .xnch-last-visit, .xn-course-head .xnch-right-box {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-course-head .xnch-last-visit-data {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-course-head .xnch-last-visit-title {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-course-head .xnch-last-visit-days {
+        background: rgb(22, 22, 22) !important;
+    }
+    .xn-course-head .xnch-last-visit-days {
+        background: rgb(22, 22, 22) !important;
+    }
+    .xn-head-total-student .xnhts-left, .xn-head-total-student .xnhts-right {
+        background-color: slategrey !important;
+    }
+    .xn-head-total-item .xnhti-counts {
+        border-right: 1px solid slategrey !important;
+    }
+    .xn-head-total-item .xnhti-title {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-head-total-item .xnhti-counts>p {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-course-head .xnch-link-LinkToCourseHome {
+        background-color: #3078ed !important;
+    }
+    span.xnci-chart-text {
+        color: white !important;
+    }
+    span.xnobs-status-item.xnobs-status-item-attendance {
+        color: white !important;
+    }
+    span.xnobs-status-item.xnobs-status-item-late {
+        color: white !important;
+    }
+    .xn-online-body-sections .xnobs-status-item {
+        color: white !important;
+    }
+    .xn-online-body-sections .xnobs-status-item {
+        color: white !important;
+    }
+    .xn-online-body-sections .xnobs-item-in_progress {
+        background-color: burlywood !important;
+    }
+    .xn-subsection-container-contents {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    p.xn-subsection-container-item-title.xn-todo-item-title-text {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-todo-item-root-container .xn-todo-item-title-text>a {
+        color: aliceblue !important;
+    }
+    .xn-subsection-container-box {
+        background: rgb(22, 22, 22) !important;
+    }
+    p.xn-subsection-container-noncontent-text {
+        background-color: rgb(22, 22, 22) !important;
+    }
+    .xn-online-body-student .xnobs-chart {
+        border: 1px solid slategrey !important;
+    }
+    .xn-online-body-sections {
+        border: 1px solid slategrey !important;
+    }
+    .xn-course-container .xncc-footer {
+        border: 1px solid slategrey !important;
+    }
+    .navbar-header {
+        background-color: black !important;
+    }
+    body.mypage #header .navbar-static-top .container {
+        background-color: black !important;
+    }
+    body.mypage #header .navbar-static-top .container {
+        background-color: black !important;
+    }
+    button.btn.xn-common-white-gray-btn.btn-dropdown-user-menu {
+        background-color: rgb(22, 22, 22) !important;
+        border: 2px solid lightgrey !important;
+    }
+    span.xn-header-member-btn-text.xn-common-title {
+        background-color: rgb(22, 22, 22) !important;
+        color: white !important;
+    }
+    /* header style does not applied */
+    #header .xn-header-member-dropdown-menu .dropdown-item.xn-logout-btn-wrap {
+        border-top: 1px solid lightgrey !important;
+        background-color: #222;
+    }
+    #header .xn-header-member-dropdown-menu .dropdown-item {
+        background-color: #333 !important;
+        color: white !important;
+    }
+    #header .xn-header-member-dropdown-menu {
+        background-color: #333 !important;
+    }
+    #header .xn-header-member-dropdown-menu .dropdown-item.xn-logout-btn-wrap .xn-common-white-btn {
+        color: aliceblue !important;
+    }
+    button.xn-common-white-btn.btn.btn-logout {
+        background-color: black !important;
+        border: 1px solid slategrey !important;
+    }
+
 
     /* Area for base64 SVG datas */
     .xn-common-next-arrow-icon {
@@ -964,6 +1201,18 @@
         height: 20px !important;
         background: url(data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjUxMnB0IiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMnB0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0yNTYgMGMtMTQxLjE2NDA2MiAwLTI1NiAxMTQuODM1OTM4LTI1NiAyNTZzMTE0LjgzNTkzOCAyNTYgMjU2IDI1NiAyNTYtMTE0LjgzNTkzOCAyNTYtMjU2LTExNC44MzU5MzgtMjU2LTI1Ni0yNTZ6bTAgMCIgZmlsbD0iIzIxOTZmMyIvPjxwYXRoIGQ9Im0zODUuNzUgMjAxLjc1LTEzOC42Njc5NjkgMTM4LjY2NDA2MmMtNC4xNjAxNTYgNC4xNjAxNTctOS42MjEwOTMgNi4yNTM5MDctMTUuMDgyMDMxIDYuMjUzOTA3cy0xMC45MjE4NzUtMi4wOTM3NS0xNS4wODIwMzEtNi4yNTM5MDdsLTY5LjMzMjAzMS02OS4zMzIwMzFjLTguMzQzNzUtOC4zMzk4NDMtOC4zNDM3NS0yMS44MjQyMTkgMC0zMC4xNjQwNjIgOC4zMzk4NDMtOC4zNDM3NSAyMS44MjAzMTItOC4zNDM3NSAzMC4xNjQwNjIgMGw1NC4yNSA1NC4yNSAxMjMuNTg1OTM4LTEyMy41ODIwMzFjOC4zMzk4NDMtOC4zNDM3NSAyMS44MjAzMTItOC4zNDM3NSAzMC4xNjQwNjIgMCA4LjMzOTg0NCA4LjMzOTg0MyA4LjMzOTg0NCAyMS44MjAzMTIgMCAzMC4xNjQwNjJ6bTAgMCIgZmlsbD0iI2ZhZmFmYSIvPjwvc3ZnPg==) !important;
         background-size: 100% !important;
+    }
+    .xn-navigation-index-unit .xnniu-unit-status.complete {
+        background: url(data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjUxMnB0IiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMnB0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0yNTYgMGMtMTQxLjE2NDA2MiAwLTI1NiAxMTQuODM1OTM4LTI1NiAyNTZzMTE0LjgzNTkzOCAyNTYgMjU2IDI1NiAyNTYtMTE0LjgzNTkzOCAyNTYtMjU2LTExNC44MzU5MzgtMjU2LTI1Ni0yNTZ6bTAgMCIgZmlsbD0iIzIxOTZmMyIvPjxwYXRoIGQ9Im0zODUuNzUgMjAxLjc1LTEzOC42Njc5NjkgMTM4LjY2NDA2MmMtNC4xNjAxNTYgNC4xNjAxNTctOS42MjEwOTMgNi4yNTM5MDctMTUuMDgyMDMxIDYuMjUzOTA3cy0xMC45MjE4NzUtMi4wOTM3NS0xNS4wODIwMzEtNi4yNTM5MDdsLTY5LjMzMjAzMS02OS4zMzIwMzFjLTguMzQzNzUtOC4zMzk4NDMtOC4zNDM3NS0yMS44MjQyMTkgMC0zMC4xNjQwNjIgOC4zMzk4NDMtOC4zNDM3NSAyMS44MjAzMTItOC4zNDM3NSAzMC4xNjQwNjIgMGw1NC4yNSA1NC4yNSAxMjMuNTg1OTM4LTEyMy41ODIwMzFjOC4zMzk4NDMtOC4zNDM3NSAyMS44MjAzMTItOC4zNDM3NSAzMC4xNjQwNjIgMCA4LjMzOTg0NCA4LjMzOTg0MyA4LjMzOTg0NCAyMS44MjAzMTIgMCAzMC4xNjQwNjJ6bTAgMCIgZmlsbD0iI2ZhZmFmYSIvPjwvc3ZnPg==) !important;
+        height: 20px !important;
+        width: 20px !important;
+        background-size: 100% 100% !important;
+        margin-right: 4px !important;
+    }
+    .xn-assignment-submit-info .xnasi-status.submitted-image {
+        width: 20px;
+        height: 20px;
+        background: url(data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjUxMnB0IiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgd2lkdGg9IjUxMnB0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0yNTYgMGMtMTQxLjE2NDA2MiAwLTI1NiAxMTQuODM1OTM4LTI1NiAyNTZzMTE0LjgzNTkzOCAyNTYgMjU2IDI1NiAyNTYtMTE0LjgzNTkzOCAyNTYtMjU2LTExNC44MzU5MzgtMjU2LTI1Ni0yNTZ6bTAgMCIgZmlsbD0iIzIxOTZmMyIvPjxwYXRoIGQ9Im0zODUuNzUgMjAxLjc1LTEzOC42Njc5NjkgMTM4LjY2NDA2MmMtNC4xNjAxNTYgNC4xNjAxNTctOS42MjEwOTMgNi4yNTM5MDctMTUuMDgyMDMxIDYuMjUzOTA3cy0xMC45MjE4NzUtMi4wOTM3NS0xNS4wODIwMzEtNi4yNTM5MDdsLTY5LjMzMjAzMS02OS4zMzIwMzFjLTguMzQzNzUtOC4zMzk4NDMtOC4zNDM3NS0yMS44MjQyMTkgMC0zMC4xNjQwNjIgOC4zMzk4NDMtOC4zNDM3NSAyMS44MjAzMTItOC4zNDM3NSAzMC4xNjQwNjIgMGw1NC4yNSA1NC4yNSAxMjMuNTg1OTM4LTEyMy41ODIwMzFjOC4zMzk4NDMtOC4zNDM3NSAyMS44MjAzMTItOC4zNDM3NSAzMC4xNjQwNjIgMCA4LjMzOTg0NCA4LjMzOTg0MyA4LjMzOTg0NCAyMS44MjAzMTIgMCAzMC4xNjQwNjJ6bTAgMCIgZmlsbD0iI2ZhZmFmYSIvPjwvc3ZnPg==) !important;
     }
     .xn-basecomponent-container .xnqc-status.submitted-image {
         width: 20px;
