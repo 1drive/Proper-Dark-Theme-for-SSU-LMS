@@ -737,6 +737,9 @@
         border: 1px solid dimgrey !important;
         background-color: black !important;
     }
+    .well {
+        background-color: black !important;
+    }
     .question .header {
         border-bottom: 1px solid dimgrey !important;
         background-color: darkslategrey !important;
